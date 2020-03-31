@@ -1,2 +1,3 @@
 # CapitalTracker_RateRetriever
-Job to retrieve financial records like Stock, Exchange Currency and Cryptocurrency prices.
+Microservice to retrieve financial records like Stock, Exchange Currency and Cryptocurrency prices and write the data into MongoDB.
+
